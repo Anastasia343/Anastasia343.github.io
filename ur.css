@@ -1,3 +1,16 @@
-.uk-grid{
-	 <div class="uk-width-auto"></div>
+.phot {
+    font-size: 2vh;
+    margin: 2%;
+}
+
+.p{
+    float: left;
+}
+
+.pho{
+    width: 23vh;
+    height: 26vh;
+}
+.inf{
+	float: bottom;
 }
